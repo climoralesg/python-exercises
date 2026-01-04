@@ -1,0 +1,349 @@
+Bloque 1 – Variables y tipos de datos	
+1	Pide el nombre del usuario y muéstralo con un mensaje personalizado.
+2	Pide la edad y muéstrala dentro de una frase.
+3	Pide dos números y muestra su suma.
+4	Pide dos números y muestra resta, multiplicación y división.
+5	Calcula el área de un cuadrado a partir de su lado.
+6	Calcula el área de un triángulo usando base y altura.
+7	Convierte grados Celsius a Fahrenheit.
+8	Convierte metros a kilómetros.
+9	Calcula el promedio de tres calificaciones.
+10	Intercambia los valores de dos variables sin perder datos.
+11	Calcula cuántos meses y días ha vivido una persona.
+12	Calcula el precio final con IVA.
+13	Calcula un descuento según porcentaje.
+14	Pide un texto y muestra cuántos caracteres tiene.
+15	Muestra el texto en mayúsculas y minúsculas.
+16	Pide un número y muestra su doble, triple y cuadrado.
+17	Convierte un número a string y concaténalo con texto.
+18	Pide un precio y calcula el total de varios productos.
+19	Calcula cuánto dinero se ahorra en un mes.
+20	Pide datos y muestra su tipo con type().
+Bloque 2 – Condicionales	
+21	Determina si un número es par o impar.
+22	Determina si un número es positivo, negativo o cero.
+23	Verifica si una persona es mayor de edad.
+24	Compara dos números e indica cuál es mayor o si son iguales.
+25	Compara tres números y muestra el mayor.
+26	Evalúa una calificación y muestra aprobado o reprobado.
+27	Convierte una nota numérica en letra.
+28	Verifica si una contraseña es correcta.
+29	Determina si un año es bisiesto.
+30	Aplica descuento solo si el monto supera cierto valor.
+31	Determina si una edad está dentro de un rango válido.
+32	Verifica si un número es múltiplo de 3 o de 5.
+33	Simula un semáforo según el color ingresado.
+34	Verifica si un carácter es vocal o consonante.
+35	Determina si un número tiene uno, dos o tres dígitos.
+36	Valida que un texto no esté vacío.
+37	Determina la estación del año según el mes.
+38	Calcula el impuesto según salario.
+39	Verifica si un usuario tiene acceso.
+40	Clasifica edades (niño, joven, adulto).
+41	Determina tipo de triángulo.
+42	Evalúa una temperatura.
+43	Verifica si una letra es mayúscula.
+44	Determina turno según hora.
+45	Valida entradas incorrectas.
+Bloque 3 – Bucles	
+46	Imprime los números del 1 al 10 usando for.
+47	Imprime los números pares del 1 al 100.
+48	Suma los números del 1 al 100.
+49	Muestra la tabla de multiplicar de un número dado.
+50	Pide números hasta que el usuario escriba “stop”.
+51	Calcula el factorial de un número.
+52	Genera la serie Fibonacci hasta N términos.
+53	Cuenta cuántos números positivos y negativos se ingresan.
+54	Invierte un número usando un bucle.
+55	Cuenta cuántas vocales tiene una palabra.
+56	Muestra un patrón de asteriscos.
+57	Implementa un menú que se repite hasta salir.
+58	Juego de adivinar número con intentos.
+59	Cuenta cuántos intentos hizo el usuario.
+60	Valida entradas numéricas con while.
+61	Recorre una lista y muestra sus elementos.
+62	Suma los elementos de una lista.
+63	Encuentra el mayor número de una lista.
+64	Cuenta números pares en una lista.
+65	Recorre una palabra mostrando índice y letra.
+Bloque 4 – Estructuras de datos	
+66	Crea una lista y agrega elementos dinámicamente.
+67	Elimina un elemento de una lista.
+68	Ordena una lista de números.
+69	Busca un valor dentro de una lista.
+70	Elimina duplicados de una lista.
+71	Crea un diccionario con nombres y edades.
+72	Busca una clave en un diccionario.
+73	Calcula el promedio de valores en un diccionario.
+74	Crea una agenda telefónica.
+75	Actualiza datos de un contacto.
+76	Elimina un contacto.
+77	Cuenta la frecuencia de palabras en un texto.
+78	Usa una tupla para almacenar datos fijos.
+79	Usa un set para eliminar duplicados.
+80	Combina listas, diccionarios y bucles en un mini programa.
+Bloque 5 – Listas	
+81	Crea una lista vacía y permite al usuario agregar 5 números.
+82	Muestra todos los elementos de una lista en una sola línea.
+83	Calcula la suma total de una lista de números.
+84	Calcula el promedio de una lista.
+85	Encuentra el valor máximo de una lista sin usar max().
+86	Encuentra el valor mínimo sin usar min().
+87	Cuenta cuántos números pares hay en una lista.
+88	Cuenta cuántos impares hay en una lista.
+89	Crea una nueva lista solo con los números mayores a 10.
+90	Elimina un número específico ingresado por el usuario.
+91	Reemplaza un valor de la lista por otro.
+92	Invierte una lista sin usar reverse().
+93	Ordena una lista de menor a mayor sin usar sort().
+94	Verifica si un número existe dentro de la lista.
+95	Cuenta cuántas veces aparece un número.
+96	Divide una lista en dos: pares e impares.
+97	Duplica cada valor de una lista.
+98	Multiplica todos los elementos de una lista.
+99	Elimina todos los números negativos.
+100	Crea una lista con los cuadrados de otra lista.
+101	Une dos listas en una sola.
+102	Compara dos listas y muestra si son iguales.
+103	Encuentra los elementos comunes entre dos listas.
+104	Elimina elementos repetidos manualmente.
+105	Rota una lista hacia la derecha.
+106	Rota una lista hacia la izquierda.
+107	Inserta un elemento en una posición específica.
+108	Elimina el último elemento sin usar pop().
+109	Genera una lista de números del 1 al N.
+110	Simula un historial usando una lista.
+Bloque 6 – Strings con lógica	
+111	Cuenta cuántas letras tiene una palabra.
+112	Cuenta cuántas vocales tiene un texto.
+113	Cuenta cuántas consonantes tiene un texto.
+114	Cuenta cuántos espacios hay en una frase.
+115	Invierte un texto letra por letra.
+116	Verifica si una palabra es palíndromo.
+117	Convierte la primera letra de cada palabra en mayúscula.
+118	Reemplaza una palabra dentro de un texto.
+119	Elimina espacios al inicio y final.
+120	Cuenta cuántas veces aparece una letra específica.
+121	Verifica si una palabra empieza con cierta letra.
+122	Verifica si una palabra termina con cierta letra.
+123	Divide una frase en palabras.
+124	Cuenta cuántas palabras tiene una frase.
+125	Encuentra la palabra más larga.
+126	Encuentra la palabra más corta.
+127	Oculta parte de un texto (ej: contraseña).
+128	Valida que una contraseña tenga mínimo 8 caracteres.
+129	Verifica si un texto solo contiene letras.
+130	Verifica si un texto solo contiene números.
+131	Convierte texto a formato título.
+132	Elimina signos de puntuación.
+133	Genera iniciales a partir de un nombre completo.
+134	Simula un corrector simple de palabras.
+135	Analiza un texto y muestra estadísticas.
+Bloque 7 – Diccionarios	
+136	Crea un diccionario con nombre y edad.
+137	Agrega nuevos pares clave–valor.
+138	Actualiza un valor existente.
+139	Elimina una clave específica.
+140	Busca un valor a partir de su clave.
+141	Recorre un diccionario mostrando claves y valores.
+142	Cuenta cuántos elementos tiene un diccionario.
+143	Calcula el promedio de valores numéricos.
+144	Diccionario de alumnos y notas.
+145	Muestra al alumno con mejor nota.
+146	Muestra al alumno con peor nota.
+147	Valida si un alumno existe.
+148	Crea un diccionario de productos y precios.
+149	Calcula el total de una compra.
+150	Aplica descuento a productos.
+151	Diccionario de conteo de palabras.
+152	Cuenta frecuencia de letras.
+153	Agenda telefónica básica.
+154	Permite agregar, buscar y eliminar contactos.
+155	Simula un sistema de login con diccionario.
+156	Valida usuario y contraseña.
+157	Diccionario anidado (usuario → datos).
+158	Actualiza datos internos.
+159	Genera un reporte desde el diccionario.
+160	Convierte diccionario a lista de claves y valores.
+Bloque 8 – Funciones	
+161	Crea una función que sume dos números.
+162	Función que determine si un número es par.
+163	Función que calcule el promedio de una lista.
+164	Función que encuentre el mayor valor.
+165	Función que valide una edad.
+166	Función que calcule descuento.
+167	Función que convierta temperaturas.
+168	Función que reciba un texto y cuente vocales.
+169	Función que invierta una palabra.
+170	Función que verifique palíndromos.
+171	Función que valide contraseña.
+172	Función que genere una lista de pares.
+173	Función que reciba una lista y elimine duplicados.
+174	Función que busque un valor en una lista.
+175	Función que ordene una lista.
+176	Función que simule un menú.
+177	Función que controle un juego simple.
+178	Función que imprima estadísticas.
+179	Divide un programa en varias funciones.
+180	Refactoriza un código largo usando funciones.
+Bloque 9 – Algoritmos básicos	
+181	Implementa búsqueda lineal en una lista y devuelve la posición del elemento o -1.
+182	Implementa búsqueda binaria en una lista ordenada.
+183	Ordena una lista usando burbuja paso a paso.
+184	Ordena una lista usando selección.
+185	Ordena una lista usando inserción.
+186	Compara burbuja vs selección contando iteraciones.
+187	Genera una lista aleatoria y ordénala.
+188	Verifica si una lista ya está ordenada.
+189	Mezcla dos listas ordenadas en una sola ordenada.
+190	Encuentra el segundo número más grande.
+191	Encuentra el segundo número más pequeño.
+192	Elimina duplicados manteniendo el orden.
+193	Divide una lista en bloques de tamaño N.
+194	Rota una lista N posiciones.
+195	Encuentra la suma máxima de una sublista.
+196	Encuentra la sublista más larga sin repetir.
+197	Cuenta cuántas comparaciones hace un algoritmo.
+198	Determina la complejidad aproximada de tu código.
+199	Optimiza un algoritmo lento.
+200	Detecta valores fuera de rango.
+201	Encuentra elementos faltantes en una secuencia.
+202	Detecta números duplicados.
+203	Valida listas vacías o con un solo elemento.
+204	Implementa un conteo de frecuencias eficiente.
+205	Ordena una lista de diccionarios por un campo.
+206	Filtra datos según condiciones múltiples.
+207	Busca el elemento más frecuente.
+208	Agrupa elementos iguales.
+209	Encuentra la intersección de dos listas sin sets.
+210	Implementa una búsqueda con múltiples criterios.
+Bloque 10 – Archivos	
+211	Crea un archivo de texto y escribe un mensaje.
+212	Lee el contenido de un archivo y muéstralo.
+213	Agrega contenido a un archivo existente.
+214	Cuenta cuántas líneas tiene un archivo.
+215	Cuenta cuántas palabras hay en un archivo.
+216	Cuenta cuántos caracteres tiene un archivo.
+217	Copia el contenido de un archivo a otro.
+218	Busca una palabra específica dentro de un archivo.
+219	Reemplaza una palabra dentro del archivo.
+220	Convierte el contenido a mayúsculas.
+221	Guarda una lista en un archivo.
+222	Lee una lista desde un archivo.
+223	Guarda un diccionario en un archivo.
+224	Lee un diccionario desde un archivo.
+225	Simula una base de datos simple con archivos.
+226	Guarda registros de usuarios.
+227	Carga registros al iniciar el programa.
+228	Actualiza un registro guardado.
+229	Elimina un registro del archivo.
+230	Genera reportes desde archivos.
+231	Maneja errores si el archivo no existe.
+232	Valida formato de datos al leer.
+233	Limpia datos corruptos.
+234	Usa archivos para persistir un menú.
+235	Diseña un mini sistema basado en archivos.
+Bloque 11 - Manejo de errores	
+236	Maneja errores de entrada no numérica.
+237	Evita división por cero.
+238	Usa try/except correctamente.
+239	Captura errores específicos.
+240	Muestra mensajes de error claros.
+241	Reintenta entrada tras error.
+242	Valida rangos numéricos.
+243	Maneja errores en archivos.
+244	Maneja errores en listas vacías.
+245	Maneja errores en claves inexistentes.
+246	Diseña validaciones previas.
+247	Crea funciones seguras.
+248	Evita que el programa se caiga.
+249	Registra errores en un archivo.
+250	Prueba casos extremos.
+251	Simula errores intencionales.
+252	Mejora mensajes de error.
+253	Controla flujos incorrectos.
+254	Protege entradas del usuario.
+255	Diseña un sistema robusto.
+Bloque 12 – Retos algorítmico	
+256	Dado un número, determina si es primo sin usar funciones predefinidas.
+257	Genera todos los números primos menores que N.
+258	Encuentra el máximo común divisor (MCD).
+259	Encuentra el mínimo común múltiplo (MCM).
+260	Implementa la criba de Eratóstenes.
+261	Verifica si un número es perfecto.
+262	Verifica si un número es armstrong.
+263	Convierte un número decimal a binario manualmente.
+264	Convierte binario a decimal manualmente.
+265	Invierte una matriz.
+266	Suma dos matrices.
+267	Multiplica dos matrices.
+268	Encuentra la diagonal principal.
+269	Transpone una matriz.
+270	Rota una matriz 90°.
+271	Busca un valor en una matriz.
+272	Cuenta cuántas veces aparece un valor.
+273	Genera una matriz identidad.
+274	Valida dimensiones antes de operar.
+275	Simula un tablero de juego.
+276	Detecta patrones en una matriz.
+277	Encuentra filas repetidas.
+278	Encuentra columnas repetidas.
+279	Implementa un recorrido en espiral.
+280	Cuenta vecinos (tipo buscaminas).
+281	Detecta colisiones simples.
+282	Simula movimiento en una grilla.
+283	Aplica reglas por turnos.
+284	Evalúa estado del juego.
+285	Optimiza el algoritmo del tablero.
+Bloque 13 – Recursión	
+286	Calcula factorial usando recursión.
+287	Calcula Fibonacci recursivo.
+288	Cuenta hacia atrás recursivamente.
+289	Suma elementos de una lista recursivamente.
+290	Busca un elemento recursivamente.
+291	Calcula potencia usando recursión.
+292	Cuenta dígitos de un número.
+293	Invierte una cadena.
+294	Verifica palíndromo recursivo.
+295	Recorre una matriz recursivamente.
+296	Implementa búsqueda binaria recursiva.
+297	Implementa recorrido de árbol simple.
+298	Simula un menú recursivo.
+299	Valida entradas recursivamente.
+300	Divide un problema en subproblemas.
+301	Analiza profundidad de recursión.
+302	Evita recursión infinita.
+303	Convierte recursión a iteración.
+304	Compara eficiencia.
+305	Usa recursión solo cuando conviene.
+Bloque 14 - Algoritmos básicos	
+306	Implementa búsqueda lineal en una lista y devuelve la posición del elemento o -1.
+307	Implementa búsqueda binaria en una lista ordenada.
+308	Ordena una lista usando burbuja paso a paso.
+309	Ordena una lista usando selección.
+310	Ordena una lista usando inserción.
+311	Compara burbuja vs selección contando iteraciones.
+312	Genera una lista aleatoria y ordénala.
+313	Verifica si una lista ya está ordenada.
+314	Mezcla dos listas ordenadas en una sola ordenada.
+315	Encuentra el segundo número más grande.
+316	Encuentra el segundo número más pequeño.
+317	Elimina duplicados manteniendo el orden.
+318	Divide una lista en bloques de tamaño N.
+319	Rota una lista N posiciones.
+320	Encuentra la suma máxima de una sublista.
+321	Encuentra la sublista más larga sin repetir.
+322	Cuenta cuántas comparaciones hace un algoritmo.
+323	Determina la complejidad aproximada de tu código.
+324	Optimiza un algoritmo lento.
+325	Detecta valores fuera de rango.
+326	Encuentra elementos faltantes en una secuencia.
+327	Detecta números duplicados.
+328	Valida listas vacías o con un solo elemento.
+329	Implementa un conteo de frecuencias eficiente.
+330	Ordena una lista de diccionarios por un campo.
+331	Filtra datos según condiciones múltiples.
+332	Busca el elemento más frecuente.
+333	Agrupa elementos iguales.
+334	Encuentra la intersección de dos listas sin sets.
+335	Implementa una búsqueda con múltiples criterios.

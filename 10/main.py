@@ -2,10 +2,15 @@
 
 firstValue = input("Ingrese el primer valor: ") 
 secondValue = input("Ingrese el segundo valor: ")
+
 print(f"El primer valor {firstValue}")
 print(f"El segundo valor {secondValue}")
+
+firstValue,secondValue = secondValue,firstValue
+'''
 aux = firstValue
 firstValue = secondValue
 secondValue = aux
+'''
 print(f"El primer valor {firstValue}")
 print(f"El segundo valor {secondValue}")

@@ -17,7 +17,7 @@ Bloque 1 – Variables y tipos de datos
 16	Pide un número y muestra su doble, triple y cuadrado.
 17	Convierte un número a string y concaténalo con texto.
 18	Pide un precio y calcula el total de varios productos.
-19	Calcula cuánto dinero se ahorra en un mes.
+19	Pide al usuario su ingreso mensual y sus gastos mensuales, y calcula cuánto dinero ahorra en un mes.
 20	Pide datos y muestra su tipo con type().
 Bloque 2 – Condicionales	
 21	Determina si un número es par o impar.

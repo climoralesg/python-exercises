@@ -1,0 +1,1 @@
+#56	Muestra un patrón de asteriscos.

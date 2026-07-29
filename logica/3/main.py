@@ -33,16 +33,20 @@ def draw_gift(size, symbol):
             for col in range(0,size):
                 if col == 0 or col == (size - 1):
                     if col == 0:
+                        lines.append(symbol)
                         initialFinal = symbol
                         result = result + initialFinal
                     else:
+                        lines.append(symbol)
                         initialFinal = symbol + '\n'
                         result = result + initialFinal
                 else:
+                    lines.append(' ')
                     result = result + ' '
+    print(lines)
     return result
 
 print(f"\n{draw_gift(9,'#')}")
-
+'''
 if __name__=="__main__":
-    draw_gift(3,'#')
+    draw_gift(3,'#')'''
